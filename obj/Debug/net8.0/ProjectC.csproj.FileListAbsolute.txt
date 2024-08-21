@@ -1,0 +1,14 @@
+C:\Users\acer\Project\C#\ProjectC\bin\Debug\net8.0\ProjectC.exe
+C:\Users\acer\Project\C#\ProjectC\bin\Debug\net8.0\ProjectC.deps.json
+C:\Users\acer\Project\C#\ProjectC\bin\Debug\net8.0\ProjectC.runtimeconfig.json
+C:\Users\acer\Project\C#\ProjectC\bin\Debug\net8.0\ProjectC.dll
+C:\Users\acer\Project\C#\ProjectC\bin\Debug\net8.0\ProjectC.pdb
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.AssemblyInfoInputs.cache
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.AssemblyInfo.cs
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.csproj.CoreCompileInputs.cache
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.dll
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\refint\ProjectC.dll
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.pdb
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ProjectC.genruntimeconfig.cache
+C:\Users\acer\Project\C#\ProjectC\obj\Debug\net8.0\ref\ProjectC.dll
